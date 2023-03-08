@@ -5,9 +5,8 @@ Pod::Spec.new do |spec|
    spec.description   = "AgoraMeeting Library"
    spec.homepage      = "https://github.com/apass-msdk/AgoraMeetingLibrary_Mac"
    spec.license       = { :type => 'MIT', :file => 'LICENSE' }
-   spec.author        = {'caizehua' => 'winok8'}
-   spec.author           = { 'winok8' => 'winok8@gmail.com' }
-   spec.source           = { :git => 'https://github.com/apass-msdk/AgoraMeetingLibrary_Mac.git', :tag => spec.version.to_s, :submodules => true }
+   spec.author        = { 'winok8' => 'winok8@gmail.com' }
+   spec.source        = { :git => 'https://github.com/apass-msdk/AgoraMeetingLibrary_Mac.git', :tag => spec.version.to_s }
    spec.vendored_frameworks = 'AgoraMeetingKitFramework/AgoraMeetingKit.framework'
    spec.requires_arc  = true
    spec.platform = :osx, '10.10'
