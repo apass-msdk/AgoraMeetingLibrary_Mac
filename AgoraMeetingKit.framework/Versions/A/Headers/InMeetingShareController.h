@@ -204,7 +204,12 @@ NS_ASSUME_NONNULL_BEGIN
 - (void) stopShareScreen;
 
 
- 
+/**
+ * @return true：是的 false：不是
+ * @brief  是否正在进行本地共享屏幕
+ */
+-(BOOL) isLocalSharing;
+
 @end
 
 NS_ASSUME_NONNULL_END
