@@ -1,4 +1,4 @@
-# AgoraMeetingSDKLibrary
+# AgoraMeetingLibrary_Mac
 
 [![CI Status](https://img.shields.io/travis/caizehua/AgoraMeetingSDKLibrary.svg?style=flat)](https://travis-ci.org/caizehua/AgoraMeetingSDKLibrary)
 [![Version](https://img.shields.io/cocoapods/v/AgoraMeetingSDKLibrary.svg?style=flat)](https://cocoapods.org/pods/AgoraMeetingSDKLibrary)
@@ -17,12 +17,12 @@ AgoraMeetingSDKLibrary is available through [CocoaPods](https://cocoapods.org). 
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'AgoraMeetingSDKLibrary'
+pod 'AgoraMeetingLibrary_Mac'
 ```
 
 ## Author
 
-caizehua, czh981337553@163.com
+'winok8' => 'winok8@gmail.com'
 
 ## License
 
