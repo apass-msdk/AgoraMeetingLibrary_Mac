@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
    spec.name          = "AgoraMeetingLibrary_Mac"
-   spec.version       = "1.8.6.1"
+   spec.version       = "1.8.7.0"
    spec.summary       = "AgoraMeeting Library"
    spec.description   = "AgoraMeeting Library"
    spec.homepage      = "https://github.com/apass-msdk/AgoraMeetingLibrary_Mac"
