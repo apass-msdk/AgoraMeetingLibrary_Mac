@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
    spec.name          = "AgoraMeetingLibrary_Mac"
-   spec.version       = "1.8.7.2"
+   spec.version       = "1.8.7.3"
    spec.summary       = "AgoraMeeting Library"
    spec.description   = "AgoraMeeting Library"
    spec.homepage      = "https://github.com/apass-msdk/AgoraMeetingLibrary_Mac"
@@ -16,6 +16,6 @@ Pod::Spec.new do |spec|
    spec.dependency  'AFNetworking/Reachability',    '~> 4.0.1'
    spec.dependency  'AFNetworking/NSURLSession',    '~> 4.0.1'
    spec.dependency  'SocketRocket','~> 0.6.0'
-   spec.dependency  'AgoraRtcEngine_Special_macOS', '4.1.1.233'
+    
  end
 
