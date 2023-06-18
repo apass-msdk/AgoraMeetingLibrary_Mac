@@ -29,14 +29,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WT+R0qYUHysggjMB9DgOoz1YMRqHXRbx/TqNA39roR8=
+			bnUpDhK1te4hTByiP/IDUtfh5eIKNMopl3A2CaQFYdY=
 			</data>
 		</dict>
 		<key>Headers/AMInMeetingService.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eWhVin3sDYN3pAu/ZGuUXv2nf3cFHCwVRSYga9GquaA=
+			DeX4AQ4c/GTOUIurMAwFUQHBW/p03sbN2gKd+7yLg+A=
 			</data>
 		</dict>
 		<key>Headers/AMMeetingInfo.h</key>
@@ -50,7 +50,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JEPfjUxDjuMQdRPiuTTBqyUb91vqP2z+QQw1dDeazSQ=
+			QC6Xl/Fw5z36qRQiSLhJhab9tw4/j+iTKMKf1EwguME=
 			</data>
 		</dict>
 		<key>Headers/AMMeetingUserInfo.h</key>
@@ -127,7 +127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MqVDRfUZ2FywtFOGNYeiWvOUssA1qXlSkKAlDZ6KRkQ=
+			N0bKXLyvcHuvBCR/9EHNspenQBaZcRApdn4QRx3EEss=
 			</data>
 		</dict>
 		<key>Headers/AgoraMeetingKit.h</key>
