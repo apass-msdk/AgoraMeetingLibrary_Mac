@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TnC0dWTGl52R1JcOSZtfedrDuDA1mUibNpEoXTD6m5g=
+			PiLxmeciO9PM0AjhlEdyS02mdd1Dy6r8kk7Uca7NywA=
 			</data>
 		</dict>
 		<key>Headers/AMRecordingInfo.h</key>
@@ -100,6 +100,13 @@
 			<key>hash2</key>
 			<data>
 			Q/rS+VLilUv5WjEctqlfju6DDhiB/kATcL7zYDYEo6I=
+			</data>
+		</dict>
+		<key>Headers/AgoraMeetingDeviceInfo.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2PeMhirouvPrv4QdOr19IeOiaiByttASvPPplYtS0d4=
 			</data>
 		</dict>
 		<key>Headers/AgoraMeetingInitAgoraParams.h</key>
