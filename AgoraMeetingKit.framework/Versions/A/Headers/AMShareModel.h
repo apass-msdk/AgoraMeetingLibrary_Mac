@@ -10,6 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface AMShareModel : NSObject
+@property (nullable, nonatomic, retain, readwrite) NSString * shareid;
 @property (nullable, nonatomic, retain, readwrite) NSString * userid;
 @property (nullable, nonatomic, retain, readwrite) NSString * type;
 @property (nullable, nonatomic, retain, readwrite) NSString * name;
